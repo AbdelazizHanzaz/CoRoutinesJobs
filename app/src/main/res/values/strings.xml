@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoRoutinesJobs</string>
+    <string name="btn_text_start_Job">Start Job</string>
+    <string name="btn_text_cancel_job">Cancel Job</string>
+    <string name="tv_text_Job_is_completed">Job is completed</string>
+    <string name="tv_text_empty" />
+    <string name="text_resitting_job">Resitting Job</string>
+</resources>
